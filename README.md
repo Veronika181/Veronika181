@@ -3,7 +3,7 @@
 - 💞️ I’m looking to collaborate on new job.
 
 **My portfolio**
-[![My Skills](https://skillicons.dev/icons?i=globe)](https://veronika181.github.io/Veronika_portfolio_website.github.io/)
+[![My Skills](https://skillicons.dev/icons?i=heart)](https://veronika181.github.io/Veronika_portfolio_website.github.io/)
 
 **Skills**
 
