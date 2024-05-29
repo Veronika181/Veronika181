@@ -4,7 +4,7 @@
 
 **Skills**
 
-[![My Skills](https://skillicons.dev/icons?i=java,kotlin,nodejs,figma&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=github,visualstudio,py,selenium,hmtl,css,js)](https://skillicons.dev)
 
 **Contact**
 <p align="center">
