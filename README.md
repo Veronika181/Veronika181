@@ -3,11 +3,11 @@
 - 💞️ I’m looking to collaborate on new job.
 
 **My portfolio**
-[![My Skills](https://skillicons.dev/icons?i=heart)](https://veronika181.github.io/Veronika_portfolio_website.github.io/)
+[![My Skills](https://skillicons.dev/icons?i=github)](https://veronika181.github.io/Veronika_portfolio_website.github.io/)
 
 **Skills**
 
-[![My Skills](https://skillicons.dev/icons?i=github,visualstudio,python,selenium,html,css,js)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=github,vscode,python,selenium,html,css,js)](https://skillicons.dev)
 
 **Contacts**
 
