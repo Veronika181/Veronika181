@@ -7,8 +7,4 @@
 [![My Skills](https://skillicons.dev/icons?i=github,visualstudio,python,selenium,html,css,js)](https://skillicons.dev)
 
 **Contact**
-<p align="center">
-  <a href="(https://www.linkedin.com/in/veronika-obrtelov%C3%A1/)">
-    <img src="https://skillicons.dev/icons?i=linkedin" />
-  </a>
-</p>
+[![My Skills](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/veronika-obrtelov%C3%A1/)
