@@ -3,11 +3,7 @@
 - 💞️ I’m looking to collaborate on new job.
 
 **Skills**
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=github,pycharm,visualstudiocode,jira" />
-  </a>
-</p>
+[![My Skills](https://skillicons.dev/icons?i=java,kotlin,nodejs,figma&theme=light)](https://skillicons.dev)
 
 **Contact**
 <p align="center">
