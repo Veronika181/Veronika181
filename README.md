@@ -2,6 +2,9 @@
 - 👩‍💻 I'm passionate about QA testing and programming.
 - 💞️ I’m looking to collaborate on new job.
 
+**My portfolio**
+[![Website](https://skillicons.dev/icons?i=globe)](https://veronika181.github.io/Veronika_portfolio_website.github.io/)
+
 **Skills**
 
 [![My Skills](https://skillicons.dev/icons?i=github,visualstudio,python,selenium,html,css,js)](https://skillicons.dev)
