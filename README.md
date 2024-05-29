@@ -8,7 +8,7 @@
 
 **Skills**
 
-[![My Skills](https://skillicons.dev/icons?i=github,vscode,python,selenium,html,css,js)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=pycharm,vscode,jira,python,selenium,html,css,js)](https://skillicons.dev)
 
 **Contacts**
 
