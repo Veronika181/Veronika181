@@ -4,8 +4,7 @@
 
 **My portfolio**
 
-[![My Skills](https://skillicons.dev/icons?i=github)]
-[(https://veronikaobrtelova.netlify.app)]
+[![My Skills](https://skillicons.dev/icons?i=github)](https://veronikaobrtelova.netlify.app)
 
 **Skills**
 
