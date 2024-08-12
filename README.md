@@ -2,6 +2,7 @@
 - 👩‍💻 I'm passionate about QA testing and programming.
 - 💞️ I’m looking to collaborate on new job.
 
+
 **My portfolio**
 
 [![My Skills](https://skillicons.dev/icons?i=github)](https://veronikaobrtelova.netlify.app)
@@ -10,6 +11,9 @@
 
 [![My Skills](https://skillicons.dev/icons?i=pycharm,vscode,python,selenium,html,css,js)](https://skillicons.dev)
 
+[![My Skills]
+
+[![roadmap.sh](https://roadmap.sh/card/tall/6543d8c14352f418f80d3349?variant=dark)](https://roadmap.sh)
 **Contacts**
 
 [![My Skills](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/veronika-obrtelov%C3%A1/)
