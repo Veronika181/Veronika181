@@ -12,7 +12,7 @@
 
 **My roadmap progress**
 
-<a href="https://roadmap.sh"><img src="https://roadmap.sh/card/tall/6543d8c14352f418f80d3349?variant=dark" alt="roadmap.sh"/></a>
+[![roadmap.sh](https://roadmap.sh/card/tall/6543d8c14352f418f80d3349?variant=dark)](https://roadmap.sh)
 
 **Contacts**
 
