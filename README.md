@@ -20,6 +20,6 @@
 
 **My roadmap progress**
 
-://roadmap.sh/card/tall/6543d8c14352f418f80d3349?variant=dark
+(https://roadmap.sh/card/tall/6543d8c14352f418f80d3349?variant=dark)
 
 
