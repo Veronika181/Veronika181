@@ -8,10 +8,12 @@ I'm currently seeking job opportunities where I can apply my QA testing expertis
 
 🌟 My Portfolio
 Explore my work and projects:
+
 [![My Skills](https://skillicons.dev/icons?i=github)](https://veronikaobrtelova.netlify.app)
 
 🚀 Skills
 I’m skilled in a variety of tools and technologies that I use to ensure software quality and build engaging user interfaces:
+
 [![My Skills](https://skillicons.dev/icons?i=pycharm,vscode,python,selenium,html,css,js)](https://skillicons.dev)
 
 Tools:
