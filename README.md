@@ -30,9 +30,7 @@ I’m committed to continuous learning, especially in the areas of frontend deve
 📬 Let's Connect
 I'm always open to connecting with like-minded professionals and potential employers. Feel free to reach out:
 
-[![My Skills](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/veronika-obrtelov%C3%A1/)
-
-[![My Skills](https://skillicons.dev/icons?i=gmail)](https://mail.google.com/mail/?view=cm&fs=1&to=veronika.obrtelova181@gmail.com)
+[[MySkills(https://skillicons.dev/iconsi=linkedin(https://www.linkedin.com/in/veronika-obrtelov%C3%A1/)[![My Skills(https://skillicons.dev/icons?i=gmail)](https://mail.google.com/mail/view=cm&fs=1&to=veronika.obrtelova181@gmail.com)
 
 
 
