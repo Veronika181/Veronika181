@@ -1,6 +1,3 @@
-
-[
-](https://roadmap.sh/frontend)
 👋 Hi, I'm Veronika Obrtelová
 
 👩‍💻 About Me
