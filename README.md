@@ -41,4 +41,5 @@ I'm always open to connecting with like-minded professionals and potential emplo
 [![My Skills](https://skillicons.dev/icons?i=gmail)](https://mail.google.com/mail/?view=cm&fs=1&to=veronika.obrtelova181@gmail.com)
 
 
-
+[
+](https://roadmap.sh/frontend)
