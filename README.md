@@ -33,6 +33,8 @@ HTML/CSS/JavaScript: Core technologies I use to build and test frontend interfac
 I’m committed to continuous learning, especially in the areas of frontend development and QA:
 (https://roadmap.sh/card/tall/6543d8c14352f418f80d3349?variant=dark)
 
+(https://roadmap.sh/qa?s=6543d8c14352f418f80d3349)
+
 📬 Let's Connect
 
 I'm always open to connecting with like-minded professionals and potential employers. Feel free to reach out:
