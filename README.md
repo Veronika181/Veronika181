@@ -6,7 +6,7 @@ I'm Veronika Obrtelová, a passionate QA tester with a growing interest in front
 
 💼 Seeking Collaboration
 
-I'm currently seeking job opportunities where I can apply my QA testing expertise and continue developing my frontend skills. I'm excited to collaborate on projects that challenge me and contribute to creating exceptional user experiences.
+I'm currently working as a Software Tester and am seeking opportunities for further challenges, both to expand my expertise in testing and to explore my growing interest in frontend development. I'm eager to collaborate on projects that allow me to contribute to high-quality software while developing my skills in creating user-friendly interfaces.
 
 🌟 My Portfolio
 
