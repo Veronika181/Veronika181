@@ -4,9 +4,6 @@
 
 I'm Veronika Obrtelová, a passionate QA tester with a growing interest in frontend development. My journey in tech is fueled by my commitment to ensuring software quality and my curiosity for creating intuitive user interfaces. I thrive in roles that allow me to combine meticulous testing with creative frontend work.
 
-💼 Seeking Collaboration
-
-I'm currently working as a Software Tester and am seeking opportunities for further challenges, both to expand my expertise in testing and to explore my growing interest in frontend development. 
 
 🌟 My Portfolio
 
