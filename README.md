@@ -1,4 +1,4 @@
-👋 Hi, I'm Veronika Obrtelová
+👋 Hi, I'm Veronika Ondrušová
 
 👩‍💻 About Me
 
