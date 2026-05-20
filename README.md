@@ -32,6 +32,19 @@ I’m committed to continuous learning, especially in the areas of frontend deve
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
 📬 Let's Connect
 
 I'm always open to connecting with like-minded professionals and potential employers. Feel free to reach out:
